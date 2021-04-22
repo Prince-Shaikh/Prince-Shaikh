@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Moiz Shaikh 👋👨‍💻</h1>
-![Banner Image](https://github.com/Prince-Shaikh/Prince-Shaikh/blob/main/Images/Banner.png)
+<img src="https://github.com/Prince-Shaikh/Prince-Shaikh/blob/main/Images/Banner.png" alt="Banner Image"></img>
 
 <h3 align="center">A passionate developer and UI/UX Designer</h3>
 
