@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Moiz Shaikh 👋👨‍💻</h1>
+<h1 align="left">Hi, I'm Moiz Shaikh <img width="32" src="https://raw.githubusercontent.com/fatiiates/fatiiates/main/wave.gif"/>👨‍💻</h1>
 <img src="https://github.com/Prince-Shaikh/Prince-Shaikh/blob/main/Images/Banner.png" alt="Banner Image"></img>
 
-<h3 align="center">A passionate developer and UI/UX Designer</h3>
+<h3 align="left">A passionate developer and UI/UX Designer</h3>
 
 <p align="left"> <a href="https://twitter.com/mz_shaikh18" target="blank"><img src="https://img.shields.io/twitter/follow/mz_shaikh18?logo=twitter&style=for-the-badge" alt="mz_shaikh18" /></a> </p>
 
