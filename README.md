@@ -3,13 +3,13 @@
 
 ![Banner](https://github.com/Prince-Shaikh/Prince-Shaikh/blob/main/Images/Banner.png)
 
-<p align="center">
+<div align="center">
     
 [![Twitter Badge](https://img.shields.io/badge/-MZ_Shaikh18-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/mz_shaikh18)](https://twitter.com/mz_shaikh18)
 [![Linkedin Badge](https://img.shields.io/badge/-princeshaikh-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/princeshaikh/)](https://www.linkedin.com/in/princeshaikh/)
 [![Gmail Badge](https://img.shields.io/badge/-mzshaikh129@gmail.com-blue?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mzshaikh129@gmail.com&color=rgb(234,67,53))](mailto:mzshaikh129@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-MZ_Shaikh-red?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCY-T6D6jgHutVeSUr42zrSA&color=rgb(234,67,53))](https://www.youtube.com/channel/UCY-T6D6jgHutVeSUr42zrSA)
-</p>
+</div>
 
 <h2>About Me</h2>
 <h3 align="left">I'm a software engineer and a freelance UI/UX Designer</h3>
