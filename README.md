@@ -4,6 +4,7 @@
 ![Banner](https://github.com/Prince-Shaikh/Prince-Shaikh/blob/main/Images/Banner.png)
 
 <p align="center">
+    
 [![Twitter Badge](https://img.shields.io/badge/-MZ_Shaikh18-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/mz_shaikh18)](https://twitter.com/mz_shaikh18)
 [![Linkedin Badge](https://img.shields.io/badge/-princeshaikh-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/princeshaikh/)](https://www.linkedin.com/in/princeshaikh/)
 [![Gmail Badge](https://img.shields.io/badge/-mzshaikh129@gmail.com-blue?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mzshaikh129@gmail.com&color=rgb(234,67,53))](mailto:mzshaikh129@gmail.com)
