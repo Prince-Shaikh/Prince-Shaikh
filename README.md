@@ -1,22 +1,17 @@
 
 <h1 align="left">Hi, I'm Moiz Shaikh <img width="32" src="https://raw.githubusercontent.com/fatiiates/fatiiates/main/wave.gif"/>👨‍💻</h1>
-<img src="https://github.com/Prince-Shaikh/Prince-Shaikh/blob/main/Images/Banner.png" alt="Banner Image"></img>
 
 ![Banner](https://github.com/Prince-Shaikh/Prince-Shaikh/blob/main/Images/Banner.png)
 
 [![Twitter Badge](https://img.shields.io/badge/-MZ_Shaikh18-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/mz_shaikh18)](https://twitter.com/mz_shaikh18)
 [![Linkedin Badge](https://img.shields.io/badge/-princeshaikh-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/princeshaikh/)](https://www.linkedin.com/in/princeshaikh/)
-[![Gmail Badge](https://img.shields.io/badge/-mzshaikh129@gmail.com-blue?%20style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mzshaikh129@gmail.com&color=rgb(234,67,53))](mailto:mzshaikh129@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-mzshaikh129@gmail.com-blue?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mzshaikh129@gmail.com&color=rgb(234,67,53))](mailto:mzshaikh129@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-MZ-Shaikh-darkred?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCY-T6D6jgHutVeSUr42zrSA)](https://www.youtube.com/channel/UCY-T6D6jgHutVeSUr42zrSA)
 
 
 ##About Me
 <h3 align="left">A passionate developer and UI/UX Designer</h3>
 
-
-
-
-<p align="left"> <a href="https://twitter.com/mz_shaikh18" target="blank"><img src="https://img.shields.io/twitter/follow/mz_shaikh18?logo=twitter&style=for-the-badge" alt="mz_shaikh18" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
