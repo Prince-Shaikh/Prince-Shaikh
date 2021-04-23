@@ -21,7 +21,7 @@
 </p>
 
 
-<p align="center">
+<p align="center" style="margin = 0; padding = 0">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Prince-Shaikh&show_icons=true&theme=tokyonight" />
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-Shaikh&theme=tokyonight" />
 </p>
