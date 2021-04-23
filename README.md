@@ -1,7 +1,7 @@
-#Hi, I'm Moiz Shaikh <img width="32" src="https://raw.githubusercontent.com/fatiiates/fatiiates/main/wave.gif"/>👨‍💻
 
 <h1 align="left">Hi, I'm Moiz Shaikh <img width="32" src="https://raw.githubusercontent.com/fatiiates/fatiiates/main/wave.gif"/>👨‍💻</h1>
 <img src="https://github.com/Prince-Shaikh/Prince-Shaikh/blob/main/Images/Banner.png" alt="Banner Image"></img>
+[!Banner](https://github.com/Prince-Shaikh/Prince-Shaikh/blob/main/Images/Banner.png)
 
 [![Twitter Badge](https://img.shields.io/badge/-MZ_Shaikh18-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/mz_shaikh18)](https://twitter.com/mz_shaikh18)
 [![Linkedin Badge](https://img.shields.io/badge/-princeshaikh-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/princeshaikh/)](https://www.linkedin.com/in/princeshaikh/)
