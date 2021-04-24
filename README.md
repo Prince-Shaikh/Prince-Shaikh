@@ -12,10 +12,10 @@
 </div>
 
 <h2>About Me</h2>
-<h3 align="left">I'm a software engineer and a freelance UI/UX Designer</h3>
+<h3 align="left">I'm a freelance UI/UX Designer and currenlty doing my software engineering from <a href="http://www.buitms.edu.pk/">BUITEMS</a>. Currently I'm exploring new technologies and learning Data Science & Machine Learning.</h3>
 
 
-
+<!----
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
@@ -29,7 +29,7 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
-
+------>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prince-Shaikh&show_icons=true&theme=tokyonight" />
