@@ -12,7 +12,7 @@
 </div>
 
 <h2>About Me</h2>
-<h3 align="left">I'm a freelance UI/UX Designer and currenlty doing my software engineering from <a href="http://www.buitms.edu.pk/">BUITEMS</a>. Currently I'm exploring new technologies and learning Data Science & Machine Learning.</h3>
+<h3 align="left">I'm a freelance UI/UX Designer and currenlty doing software engineering from <a href="http://www.buitms.edu.pk/">BUITEMS</a>. Currently I'm exploring new technologies and learning Data Science & Machine Learning.</h3>
 
 
 <!----
