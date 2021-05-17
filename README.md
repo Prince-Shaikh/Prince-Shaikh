@@ -22,6 +22,16 @@
 - UI Design
 - Game Development
 
+
+## Technologies & Languages I Use
+- Python
+- Java
+- Javascript
+- dart
+- FLask
+- Flutter
+- Danjgo
+
 <h2>Profile Stats:</h2>
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prince-Shaikh&show_icons=true&theme=tokyonight" />
