@@ -14,7 +14,6 @@
 <h2>About Me</h2>
 <p align="left">I'm a freelance UI/UX Designer and currenlty doing software engineering from <a href="http://www.buitms.edu.pk/">BUITEMS</a>. Currently I'm exploring new technologies and learning Data Science & Machine Learning.</p>
 
-
 ## My Intrests
 - Machine Learning
 - Web Development
@@ -22,12 +21,11 @@
 - UI Design
 - Game Development
 
-
 ## Technologies & Languages I Use
 - Python
 - Java
 - Javascript
-- dart
+- Dart
 - FLask
 - Flutter
 - Danjgo
