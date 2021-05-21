@@ -26,8 +26,8 @@
 - Java
 - Javascript
 - Dart
-- FLask
 - Flutter
+- FLask
 - Danjgo
 - Tensorflow
 
